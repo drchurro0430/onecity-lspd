@@ -17,7 +17,7 @@ Each Officer is issued a “patrol vehicle” based on the rank they hold, all �
 
 The use of spike strips by law enforcement is governed by the following guidelines:
 
-1. Authorization: Spike strips can only be used by personnel who have received proper training. This training is available HERE and in the Probationary Trooper follow on training guide.
+1. Authorization: Spike strips can only be used by personnel who have received proper training. This training is available HERE and in the Probationary Officer follow on training guide.
 2. Risk Assessment: Before deploying a spike strip, law enforcement officers must conduct a risk assessment to determine if its use is appropriate. The following factors must be considered heavily:
    * Traffic volume
    * Weather conditions

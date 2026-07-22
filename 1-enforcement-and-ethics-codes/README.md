@@ -1,6 +1,6 @@
 ---
 description: >-
-  Within this page, the standards of the Highway Patrol will be laid out. We
+  Within this page, the standards of the Los Santos Police will be laid out. We
   expect these standards to be followed to the best of your ability.
 ---
 

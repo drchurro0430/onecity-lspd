@@ -8,7 +8,7 @@ All Sub-Division affairs will be managed by The Commander's Office.
 
 In LSPD, we operate four (4) different Bureaus. These will be inclusive of different sub divisions and will be lead by a Captain.
 
-**SAHP Bureaus:**
+**LSPD Bureaus:**
 
 * Special Operations Bureau
 * Operations Bureau

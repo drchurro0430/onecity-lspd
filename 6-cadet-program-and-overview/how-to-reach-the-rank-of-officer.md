@@ -1,7 +1,7 @@
-# How to Reach the Rank of Officer I
+# How to Reach the Rank of Officer
 
 * Cadets must complete the Officer Basics Course with an FTO and become Probationary Officer within 30 days.
-* Probationary Officers have 30 days to complete a document of tasks with **ANY FTO**, and ensure they are logged by the FTO. Cadets will not be allowed to perform ride-alongs that count towards their probationary trooper time.
+* Probationary Officers have 30 days to complete a document of tasks with **ANY FTO**, and ensure they are logged by the FTO. Cadets will not be allowed to perform ride-alongs that count towards their probationary officer time.
 * Once a Probationary Officer has completed all Probationary tasks, when they feel ready they will need to take and pass the Officer Interview Exam with the Department Administration.
 
 Upon completion of the above requirements, Probationary Officer will be appointed to Officer I.

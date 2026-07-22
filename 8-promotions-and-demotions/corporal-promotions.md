@@ -7,7 +7,7 @@
 **How to Pass:** An Officer can only hold the rank of Corporal for a period of 60 / 90 days (debatable) and may only be promoted if supervisors that have patrolled with said Corporal can vouch for his or her ability to perform as a Supervisor within the department. This discussion will happen during the Panel where the corporals previous record and attributes shown while on duty are discussed.
 
 {% hint style="info" %}
-Corporal's will be seen as Supervisors In Training. This will mean they will be exposed to partial supervisory duties. This therefore will allow them to be exposed to the SAHP Supervisory Chat, however will need to be accompanied by a Sergeant+ in tickets and applications. Sergeant+ shall log the permission in #ticket-logs (Does not include applications). Sergeant+ will also need to leave feedback if a Corporal conducts an investigation.
+Corporal's will be seen as Supervisors In Training. This will mean they will be exposed to partial supervisory duties. This therefore will allow them to be exposed to the LSPD Supervisory Chat, however will need to be accompanied by a Sergeant+ in tickets and applications. Sergeant+ shall log the permission in #ticket-logs (Does not include applications). Sergeant+ will also need to leave feedback if a Corporal conducts an investigation.
 {% endhint %}
 
 {% hint style="warning" %}
