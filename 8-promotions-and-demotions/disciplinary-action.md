@@ -38,11 +38,11 @@ At a minimum one of five outcomes will result if misconduct has occurred:
 
 **Informal counseling:** An informal counseling is only a conversation between the Corporal+ who is dealing with the report and the member being investigated. The party will discuss what occurred, why it was incorrect with references provided for the member to review and learn from, and a recommendation for corrective action. This method is nicknamed **Verbal Warning.**
 
-**Letter of reprimand:** At a minimum, a letter of reprimand will include factual information regarding circumstances surrounding what the member did wrong, an explanation of why what the member did was wrong including references in SAHP documents, consequences if the issue persists & expectations moving forward. This method is nicknamed **Written Warning**.
+**Letter of reprimand:** At a minimum, a letter of reprimand will include factual information regarding circumstances surrounding what the member did wrong, an explanation of why what the member did was wrong including references in LSPD documents, consequences if the issue persists & expectations moving forward. This method is nicknamed **Written Warning**.
 
 <mark style="color:red;">Lieutenant+</mark>
 
-**Strike:** At a minimum, a strike will include factual information regarding circumstances surrounding what the Officer did wrong, an explanation of why what the Officer did was wrong including references in SAHP documents, the consequences of receiving a strike & expectations moving forward.
+**Strike:** At a minimum, a strike will include factual information regarding circumstances surrounding what the Officer did wrong, an explanation of why what the Officer did was wrong including references in LSPD documents, the consequences of receiving a strike & expectations moving forward.
 
 **Extended Suspension:** Lieutenant+ may opt to suspend the Officer being investigated in accordance with the guidelines set forth in Supervisor Manual. Formal documentation in the form of a Strike must be made.
 
