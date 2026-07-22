@@ -1,4 +1,4 @@
-# Enhanced use Of Force Policy | SAHP | Standard Operating Procedure
+# Enhanced use Of Force Policy
 
 All Officers who exercise force greater than verbal are required to render appropriate aid as soon as practical and when the situation has been deemed safe to do so. No officer shall leave another wounded law enforcement officer unattended or alone. The priority when an officer is wounded shall be with assisting and transporting that officer away from the situation as soon as practical. In the event of an officer down; in a situation which would be unsafe for EMS to deploy into, it is recommended a officer coordinate a safe place for EMS to stage near the incident until the officer can be extracted to the location of EMS.
 
@@ -6,7 +6,7 @@ Priority of care shall begin with wounded Law Enforcement Officers. If more than
 
 **Responses to the level of force deployed:**
 
-* If an Officer utilizes a baton on a subject, EMS shall be activated either upon request from the suspect or if it is needed in the trooper’s opinion, to render first aid as soon as the situation is safe for them to deploy. Officers with IFAKs may utilize their IFAK to render aid to wounded persons.
+* If an Officer utilizes a baton on a subject, EMS shall be activated either upon request from the suspect or if it is needed in the officer’s opinion, to render first aid as soon as the situation is safe for them to deploy. Officers with IFAKs may utilize their IFAK to render aid to wounded persons.
 * If an Officer deploys their taser on any subject, EMS shall be activated to perform necessary first aid to the subject who was tased. Officers shall not attempt to remove taser prongs from a subject on their own. Officers with IFAKs may utilize their IFAK to render aid to wounded persons but SHALL NOT attempt to remove or displace taser prongs.
 * If an Officer deploys their less than lethal shotgun, EMS shall be activated to perform necessary first aid to the subject who was engaged with a beanbag. Officers with IFAKs may utilize their IFAK to render aid to wounded persons.
 * If an Officer engages a suspect with a firearm, EMS shall be activated to perform necessary first aid to the subject who was engaged. If it is unsafe for EMS to arrive on a scene, officers may detain and transport the subject to a triage or staging point where EMS is located. When an individual is injured from a gunshot wound, that individual shall be treated as time-critical and transported as soon as practical. Every effort should be made to preserve life once a suspect has been neutralized by Law Enforcement and is no longer considered a threat. Officers with IFAKs may utilize their IFAK to render aid to wounded persons.
