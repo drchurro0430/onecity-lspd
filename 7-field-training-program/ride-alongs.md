@@ -1,0 +1,7 @@
+# Ride Alongs
+
+As a member of the FTO Program, you are expected as a part of your training duty to be a go-to officer for on-duty Probationary Officer ride along's. Any Officer may provide cadets or Probationary Officers with on-duty ride alongs however an effort to refer cadets or Probationary Officer to an FTO for ride alongs should be made to ensure quality training opportunities are afforded to them during their probationary period. All Officers should take care to ensure Cadets do not perform law enforcement functions. FTOs and Officers may deny any rider for any reason.
+
+### Civilian
+
+As standard civilian ride alongs are not authorized. <mark style="color:$warning;">**However civilian ride-alongs can be requested via an LSPD Inquiry ticket and must be approved by department administration at all times**</mark><mark style="color:$warning;">.</mark> If a civilian ride along is authorized, the riding civilian may not wear attire that closely resembles that of law enforcement, they may not be armed, they may not wear body armor and they may not perform or participate in law enforcement functions beyond riding in the vehicle or standing to the side out of the way of the officer. Additionally, in the presence of the ride along officers are to refrain from responding to priority calls or becoming actively involved in one. In the event that a situation escalates to a priority level, officers are expected to prioritize maintaining decorum and ensuring the safety of civilians, which may include taking a step back from the scene.
